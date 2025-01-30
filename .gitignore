@@ -1,0 +1,27 @@
+# Frontend (React/Vite)
+frontend/node_modules
+frontend/dist
+frontend/.env
+frontend/.env.local
+frontend/.env.development
+frontend/.env.production
+frontend/.vscode
+frontend/.DS_Store
+
+# Backend (Node.js/Express)
+backend/node_modules
+backend/.env
+backend/.env.local
+backend/.vscode
+backend/.DS_Store
+
+# General
+.DS_Store
+.idea
+*.log
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
